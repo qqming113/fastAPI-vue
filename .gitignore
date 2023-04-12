@@ -17,5 +17,4 @@
 **/.env
 **/.env.local
 **/.env.*.local
- 
-/backend/app/media/images/avatar/*
+ backend/app/media/images/avatar/*
